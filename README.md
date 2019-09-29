@@ -11,4 +11,5 @@ You only need to merge this Steam folder over your installed Steam folder and en
 ## Credits
 
 [NewSteamChat by RoseTheFlower](https://github.com/RoseTheFlower/newsteamchat)
+
 [MetroUI by DomDraper](https://metroforsteam.com)

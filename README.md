@@ -7,3 +7,7 @@ To use this theme you'll need to use [SteamFriendsPatcher](https://github.com/Ph
 ## Themes
 
 You only need to merge this Steam folder over your installed Steam folder! and enable the `Metro-Advent` skin in Settings>Interface!
+
+## Credits
+
+[MetroUI](https://metroforsteam.com/)

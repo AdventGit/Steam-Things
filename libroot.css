@@ -1,3 +1,5 @@
+@import url("https://raw.githack.com/AdventGit/Steam-Things/master/crossvars.css");
+
 div.allcollections_Rule_2wbrx,
 div.allcollections_ScrollContainer_u1xD3,
 div.gamelistbar_Container_3x1Hk,
@@ -30,9 +32,22 @@ div.appdetailssection_AppDetailsSectionContainer_31ptF,
 div.appdetailssection_Highlight_38t1m,
 div.appdetailstradingcardssection_Card_1WsOn.appdetailstradingcardssection_Unowned_1A6NC div.appdetailstradingcardssection_CardContainer_2DUDv,
 div.smartscrollcontainer_ScrollToTopButton_1J21t div,
+div.spotlight_AppDetailsSpotlightContainer_1zDJ1,
 textarea {
     background: rgb(0,0,0) !important;
     backdrop-filter: none !important;
     border: none !important;
     box-shadow: none !important;
+}
+
+div.appdetailsfriendssection_AvatarAndLabel_1GCZA div.ingame * {
+    color: rgb(var(--ingame)) !important;
+}
+
+div.appdetailsfriendssection_AvatarAndLabel_1GCZA div.offline * {
+    color: rgb(var(--offline)) !important;
+}
+
+div.appdetailsfriendssection_AvatarAndLabel_1GCZA div.online * {
+    color: rgb(var(--online)) !important;
 }

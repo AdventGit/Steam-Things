@@ -1,11 +1,9 @@
 @import url("https://raw.githack.com/RoseTheFlower/newsteamchat/master/friends.custom.css");
+@import url("https://raw.githack.com/AdventGit/Steam-Things/master/crossvars.css");
 
 :root {
     --clientBG: 0,0,0;
     --header_dark: 0,0,0;
     --border: 0,0,0;
     --textentry: 0,0,0;
-    --online: 220,220,220;
-    --ingame: 51,181,229;
-    --offline: 74,74,74;
 }
